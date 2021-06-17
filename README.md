@@ -1,10 +1,11 @@
 # python-tutorials
-basic tutorials on python for beginners
 
-reading through the codes won't get you anywhere
-try running each codes and understand how it works
-experiment each code in your own ways
+Basic tutorials on python for beginners.
 
-make mistakes
-solve them 
-and learn from it
+Reading through the codes won't get you anywhere.
+Try running each codes and understand how it works.
+Experiment each code in your own ways.
+
+Make mistakes,
+Solve them ,
+and Learn from it.
